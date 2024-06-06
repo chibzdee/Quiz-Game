@@ -2,8 +2,8 @@ from tkinter import * # type: ignore
 THEME_COLOR = "#375362"
 from quiz_brain import QuizBrain
 
-true_button = "C:/Users/PT WORLD/OneDrive/Desktop/100 days of python code/Day34/images/true.png"
-false_button = "C:/Users/PT WORLD/OneDrive/Desktop/100 days of python code/Day34/images/false.png"
+true_button = "images/true.png"
+false_button = "images/false.png"
 
 class QuizInterface:
 
