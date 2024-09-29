@@ -1,4 +1,4 @@
-import requests
+mport requests
 
 parameters = {
     "amount" : 10,
